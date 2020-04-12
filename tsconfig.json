@@ -17,7 +17,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "simple-ng-tokenizer": [
+        "dist/simple-ng-tokenizer/simple-ng-tokenizer",
+        "dist/simple-ng-tokenizer"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
