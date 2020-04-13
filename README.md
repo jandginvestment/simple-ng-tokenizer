@@ -1,27 +1,31 @@
 # SimpleNgTokenizer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0.
+Tokenizer is created with the aim of intercepting http request and adding the Bearer token on the headers
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The developer can install this package using the below command
+````
+    c:\projects\your-project> npm install simple-ng-tokenizer --save
+````    
 
-## Code scaffolding
+## Compatibility
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Compatible verymuch with angular 9.0.0 version
 
-## Build
+## Dependancy
+    HttpClientModule
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## How to use
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Author
+````
+jandginvestment@gmail.com
 
-## Running end-to-end tests
+````
+# stackblitz
+[https://stackblitz.com/edit/simple-ng-tokenizer](https://stackblitz.com/edit/simple-ng-tokenizer)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+######End of the file

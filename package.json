@@ -45,5 +45,8 @@
     "ts-node": "~8.3.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5"
-  }
+  },
+  "homepage": "https://github.com/jandginvestment/simple-ng-tokenizer.git",
+  "author": {"name": "jandginvestment","email": "jandginvestment@gmail.com","url": "https://github.com/jandginvestment/"},
+  "keywords": ["angular9.0","http","Interceptor","jwt","jwt-token","simple-ng-tokenizer","9","tokenizer","angular-token","http-bearer","Authentication"]
 }
